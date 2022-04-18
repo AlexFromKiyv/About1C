@@ -1,3 +1,3 @@
 "# About1C" 
 
-I'm preparing a post
+I'm preparing a post about 1C and What do?
