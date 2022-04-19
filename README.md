@@ -1,3 +1,3 @@
 "# About1C" 
 
-I'm preparing a post
+Підготовка посту про 1С.
